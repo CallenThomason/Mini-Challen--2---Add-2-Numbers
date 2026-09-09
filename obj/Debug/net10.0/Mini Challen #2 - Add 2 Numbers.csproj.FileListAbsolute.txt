@@ -1,0 +1,14 @@
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\bin\Debug\net10.0\Mini Challen #2 - Add 2 Numbers.exe
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\bin\Debug\net10.0\Mini Challen #2 - Add 2 Numbers.deps.json
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\bin\Debug\net10.0\Mini Challen #2 - Add 2 Numbers.runtimeconfig.json
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\bin\Debug\net10.0\Mini Challen #2 - Add 2 Numbers.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\bin\Debug\net10.0\Mini Challen #2 - Add 2 Numbers.pdb
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\obj\Debug\net10.0\Mini Challen #2 - Add 2 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\obj\Debug\net10.0\Mini Challen #2 - Add 2 Numbers.AssemblyInfoInputs.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\obj\Debug\net10.0\Mini Challen #2 - Add 2 Numbers.AssemblyInfo.cs
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\obj\Debug\net10.0\Mini Challen #2 - Add 2 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\obj\Debug\net10.0\Mini Challen #2 - Add 2 Numbers.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\obj\Debug\net10.0\refint\Mini Challen #2 - Add 2 Numbers.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\obj\Debug\net10.0\Mini Challen #2 - Add 2 Numbers.pdb
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\obj\Debug\net10.0\Mini Challen #2 - Add 2 Numbers.genruntimeconfig.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challen #2 - Add 2 Numbers\obj\Debug\net10.0\ref\Mini Challen #2 - Add 2 Numbers.dll
