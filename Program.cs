@@ -2,8 +2,8 @@
 Callen Thomason
 Mini Challenge Two Add 2 Numbers
 I used ReadLine to get data from the user as a string, and Convert.ToInt32 to make it an int. Then I found the sum and used interpolation to print the data.
-Peer Review name: 
-Review: 
+Peer Review name: Valery Lot
+Review: I like that you added lots of notes, and used Console.Write so there isn't a line break, so it looks cleaner when the user can input their number.
 include a png of flowchart
 */
 
